@@ -1,0 +1,11 @@
+{
+    "name": "pavelseveryn/test-kafka",
+    "description": "Test project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pavel Severyn",
+            "email": "pavel.severyn@gmail.com"
+        }
+    ]
+}
